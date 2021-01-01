@@ -10,7 +10,7 @@ public class Main {
         JFrame w = new JFrame();
         w.setSize(380, 480);
         // if you want the title to change, alter the text in the quotes below
-        w.setTitle("Calculator2");
+        w.setTitle("Calculator");
         GUI m = new GUI();
         //w.setExtendedState(JFrame.MAXIMIZED_BOTH);
         w.add(m);
